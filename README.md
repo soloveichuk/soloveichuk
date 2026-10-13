@@ -1,13 +1,5 @@
 # Hi, there👋
-I'm Shopify Developer
-
-## 🧑‍💻 About Me
-
-🔧 Full-Stack Developer with a strong focus on eCommerce  
-🛍 Specialized in **Shopify** development (themes, custom apps, Storefront API, Liquid)  
-⚙️ Tech Stack: **Shopify**, **Hydrogen**, **React**, **Next.js**, **Remix**, **Node.js**  
-📐 Also experienced with design tools like Figma, Photoshop, and Illustrator  
-🌍 Open to freelance, contract, or team collaborations  
+I'm Full Stack Developer
  
 ## Languages and Tools:
 
